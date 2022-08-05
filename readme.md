@@ -1,7 +1,3 @@
-# ARCHIVED
-
-This repo has been archived since I cannot maintain it anymore and noone has stepped up to take over. The info is still good but out of date (especially in the quarks department). Feel free to fork if you want to take over this project.
-
 # Awesome SuperCollider[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![chaos](chaos-algo.png "chaos")
@@ -139,6 +135,7 @@ This repo has been archived since I cannot maintain it anymore and noone has ste
 - [JITLibExtensions](https://github.com/supercollider-quarks/JITLibExtensions) - Some extensions to the common JITLib classes
 - [xoxo](https://github.com/lvm/xoxo) - Embedded language for SuperCollider
 - [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - This tool is aimed at the creation of musical compositions from scratch, 'on the fly'. INSTRUMENT focuses on musical language: rhythm, harmony, melody, audio processing
+- [Bacalao](https://github.com/totalgee/bacalao) - TidalCycles-inspired DSL for SuperCollider
 
 ### Live Performance
 - [CuePlayer](https://github.com/dathinaios/CuePlayer) - A tool for composing and performing real-time and mixed electronic works using SuperCollider.
@@ -196,6 +193,7 @@ This repo has been archived since I cannot maintain it anymore and noone has ste
 
 ### Misc
 - [miSCellaneous_lib](https://github.com/dkmayer/miSCellaneous_lib) - various SuperCollider extensions and tutorials: patterns, fx sequencing, granulation, wave folding, sieves, combined lang and server gui control, live coding, single sample feedback, generalized functional iteration synthesis
+- [kupa](https://github.com/bembidiona/kupa) - livecode NES games in SuperCollider
 
 
 ### SynthDefs
