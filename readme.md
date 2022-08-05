@@ -194,6 +194,7 @@
 ### Misc
 - [miSCellaneous_lib](https://github.com/dkmayer/miSCellaneous_lib) - various SuperCollider extensions and tutorials: patterns, fx sequencing, granulation, wave folding, sieves, combined lang and server gui control, live coding, single sample feedback, generalized functional iteration synthesis
 - [kupa](https://github.com/bembidiona/kupa) - livecode NES games in SuperCollider
+- [k-o-l-e-k-t-i-v/supercollider](https://github.com/k-o-l-e-k-t-i-v/supercollider) - miscellaneous SuperCollider code shared by Kolektiv
 
 
 ### SynthDefs
